@@ -1,3 +1,5 @@
+package Inheritance;
+
 public class HourlyEmployee extends Employee {
     private double wage;
     private double hoursWorked;

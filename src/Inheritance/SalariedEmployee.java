@@ -1,4 +1,6 @@
-public class SalariedEmployee extends Employee{
+package Inheritance;
+
+public class SalariedEmployee extends Employee {
     private double weeklySalary;
 
     public SalariedEmployee(String firstName, String lastName, String ssNumber, double weeklySalary){
