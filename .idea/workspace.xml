@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d984bd-142f-40d3-a9e4-f6014fdbf84a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/CargoShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/CruiseShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/ShipDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aggregation/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aggregation/CourseDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aggregation/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aggregation/Textbook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CourseDriver.executor": "Run",
     "Application.EmployeeDriver.executor": "Run",
     "Application.PayableDriver.executor": "Run",
     "Application.ShipDriver.executor": "Run",
